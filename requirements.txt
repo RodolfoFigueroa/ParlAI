@@ -30,7 +30,7 @@ regex==2020.1.8
 myst-parser~=0.12.2
 attrs~=20.2.0
 requests-mock==1.7.0
-requests<3,>=2.21.0
+requests<3,>=2.26.0
 scikit-learn==0.23.1
 scipy==1.4.1
 sh==1.12.14
@@ -40,7 +40,7 @@ Sphinx~=2.2.0
 subword-nmt==0.3.7
 tensorboard==2.3.0
 tensorboardX==2.1
-transformers==4.6.1
+transformers==4.8.2
 tokenizers>=0.8.0
 torchtext>=0.5.0
 tornado==6.0.4
@@ -51,3 +51,4 @@ urllib3>=1.26.5
 websocket-client==0.56.0
 websocket-server==0.4
 jsonlines==1.2.0
+huggingface-hub==0.0.8
